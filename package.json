@@ -1,6 +1,6 @@
 {
   "name": "nurbek-dashboard",
-  "version": "1.0",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^0.3.4",
